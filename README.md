@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :round_pushpin: Currently working as Digital Analytics Developer
-- :computer: using Google Analytics, BigQuery, Google Tag Manager, Python, SQL and more...
+- :computer: using JavaScript, Google Analytics, BigQuery, Google Tag Manager, Python, SQL and more...
 - :heart: family, dogs, travel and cook
 
 #### Connect with me:
