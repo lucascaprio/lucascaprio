@@ -18,7 +18,8 @@
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
 
-	gtag('config', 'G-D9VDXGWGRC');
+	gtag('config', 'UA-58044444-1');
+	// gtag('config', 'G-D9VDXGWGRC');
 
 
 	// social links events to Google Analytics
