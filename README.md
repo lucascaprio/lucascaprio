@@ -9,6 +9,7 @@
 [<img align="left" alt="Lucas Caprio | Website" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Lucas Caprio | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lucas Caprio | Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Lucas Caprio | Contact" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][contact]
 
 <br />
 
@@ -25,3 +26,4 @@
 [website]: http://lucascaprio.com
 [linkedin]: https://www.linkedin.com/in/lucascaprio/
 [medium]: https://medium.com/@lucascaprio
+[contact]: https://forms.gle/GPeY4Jfua6YvYmTw9
