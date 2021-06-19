@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :round_pushpin: Currently working as Digital Analytics Engineer
+- :round_pushpin: Currently working as Digital Analytics Specialist
 - :computer: using JavaScript, Google Analytics, BigQuery, Google Tag Manager, Python, SQL and more...
 - :heart: family, dogs, travel and cook
 
